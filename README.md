@@ -14,7 +14,7 @@ Objective - To assist SOCs threat hunt with anomaly detection using ML models.
 ### Projects Suggested from ChatGPT, Claude, and Gemini
 
 #### Tier 1 - Core SciKit-Learn Workflow
-* [ ] Titanic (Titanic (Kaggle)
+* [X] Titanic (Titanic (Kaggle))
 * [ ] House Price Prediction (Ames Housing (Kaggle))
 * [ ] Customer Segmentation (Mall Customers (Kaggle))
 
